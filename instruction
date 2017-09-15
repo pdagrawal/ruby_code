@@ -1,0 +1,21 @@
+#instructions
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things to followup:
+
+* To include following libraries run:
+  $ gem install minitest
+
+* Place input text file in the same directory having name 'sample-input.txt'.
+
+* To get expected output, run following command:
+  $ open terminal
+  $ go to the code directory and run following
+  $ ruby program.rb
+
+* To run the test case file.
+  $ open terminal
+  $ go to the code directory and run following
+  $ ruby testing.rb
